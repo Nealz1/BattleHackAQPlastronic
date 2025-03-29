@@ -18,9 +18,16 @@ A Python application that automatically detects and reads QR codes using your co
 - pyzbar
 - PIL/Pillow
 
+
 ## Installation
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/qr-scanner.git
    cd qr-scanner
+   ```
+2. Install needed libaries
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
